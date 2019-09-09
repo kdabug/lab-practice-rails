@@ -1,6 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SOFTWARE ENGINEERING IMMERSIVE
-
-# LAB: Auth -> Rails with React
+# PRACTIC LAB: Auth -> Rails with React
 
 This lab is meant to build your skills in creating a react-rails app that can do that auth thing. Extending your students-app. Only users that `create` a student can `edit` or `delete` that student.
 
@@ -47,7 +45,4 @@ Time to update your React frontend with user forms and connect it to your Rails 
 
 ## Tips:
 
-- [Rails with React + Auth](https://git.generalassemb.ly/sei-nyc-cicadas/rails-with-react-auth)
-- [Rails API with full CRUD](https://git.generalassemb.ly/sei-nyc-cicadas/rails-api-with-react-full-crud)
-- [Rails API with React](https://git.generalassemb.ly/sei-nyc-cicadas/course-app) lesson
-- [Rails routes](https://www.railstutorial.org/book/filling_in_the_layout#sec-rails_routes) chapter
+(https://www.railstutorial.org/book/filling_in_the_layout#sec-rails_routes) chapter
