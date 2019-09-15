@@ -1,4 +1,4 @@
-# PRACTIC LAB: Auth -> Rails with React
+# PRACTICE LAB: Auth -> Rails with React
 
 This lab is meant to build your skills in creating a react-rails app that can do that auth thing. Extending your students-app. Only users that `create` a student can `edit` or `delete` that student.
 
